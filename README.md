@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm SpyZah</h1>
-<h3 align="center">I am high school student. My favorite language is JavaScript.</h3>
+<div align="center">
+<h1> :wave: Hi, I’m Spzah </h1>
+<p> A high school student trying to gradually learn to code ❤ </p>
+  
+<h1> :grey_question: About </h1>
+  <p> :nerd: I am back-end developer </p>
+  <p>  I live in Belgium </p>
+  <p> :desktop: Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/https://discord.gg/62vjw6NjCh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/62vjw6NjCh" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<h1> ✍ Technologies I use </h1>
+<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
+
+<h1> :gem: My achievements </h1>
+<img src="https://github-profile-trophy.vercel.app/?username=githubadresiniz&theme=onedark" />
